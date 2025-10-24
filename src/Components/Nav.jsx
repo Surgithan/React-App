@@ -3,7 +3,7 @@ import React from 'react'
 const Nav = () => {
   return (
     <div>
-        <h1>nav</h1>
+        <h1>nav 12345</h1>
     </div>
   )
 }
