@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <Nav/>
-      <h1>Push project to react dev</h1>
+      <h1>Pushes project to react dev</h1>
     </div>
   )
 }
