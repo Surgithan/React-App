@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Nav/>
-      <h1>Push project to origin</h1>
+      <h1>Pull project from react app</h1>
     </div>
   );
 }
