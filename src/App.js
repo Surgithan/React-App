@@ -1,13 +1,14 @@
-import React from 'react';
+import React from 'react'
 import Nav from './Components/Nav';
 
-function App() {
+const App = () => {
   return (
     <div>
       <Nav/>
-      <h1>Pull project from react app</h1>
+      <h1>Pull project from react Intern</h1>
+      <h3>Pull it again</h3>
     </div>
-  );
+  )
 }
 
 export default App;
