@@ -1,12 +1,12 @@
 import React from 'react'
 import Nav from './Components/Nav';
+import Content from './Content/Content';
 
 const App = () => {
   return (
     <div>
       <Nav/>
-      <h1>Pull project from react Intern</h1>
-      <h3>Pull it again</h3>
+      <Content/>
     </div>
   )
 }

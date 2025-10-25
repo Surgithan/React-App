@@ -1,0 +1,22 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+.list-view{
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    cursor: pointer;
+}
+.btn-hov{
+    cursor: pointer;
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 15px;
+    font-weight: 1000;
+    border-radius: 5px 20px;
+}
